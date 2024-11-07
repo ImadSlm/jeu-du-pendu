@@ -1,0 +1,15 @@
+{
+    "name": "pendu",
+    "version": "1.0.0",
+    "description": "jeu du pendu",
+    "main": "JS exo/pendu.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "jest": "^29.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
